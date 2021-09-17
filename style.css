@@ -2,13 +2,37 @@
 
 body{
   font-family: "Roboto Condensed", sans-serif;
+  background-color:  rgb(22, 246, 252);
   margin-left: 7.5em;
   margin-right: 7.5em;
   margin-top: 1em;
-  margin-bottom: 1em;
+  margin-bottom: 1em; }
 
-  p {
-line-height: 1.5em;}
+  .one{
+   font-weight: bold;
+   color: rgb(247, 31, 110);
+  }
 
+ .frog {
+   background-color: white;
+   padding: 10px 20px 10px 20px;
+ }
+{
 
 }
+  /*h1 {
+background-color: #ffffff;
+background-color: hsla(0,100%,100%,0.5);
+color: #64645A;
+padding: inherit;}
+    /*<h1 id="top">Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time</h1>
+}
+
+p {
+  line-height: 1.5em;}
+
+ol, ul {
+  line-height: 1.5em;}
+
+li {
+  margin: 10px 0px 0px 0px;}
